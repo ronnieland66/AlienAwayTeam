@@ -5,14 +5,7 @@ body {
 }
 
 h1 {
-  color: green;
-  .neonText {
-  color: #fff;
-  text-shadow:
-    /* White glow */
-    0 0 7px #fff,
-    0 0 10px #fff,
-    0 0 21px #fff,
+  color: #66FF00;
 }
 }
     font-size: 40px;
