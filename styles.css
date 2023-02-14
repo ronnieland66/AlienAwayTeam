@@ -5,10 +5,9 @@ body {
 }
 
 h1 {
-  color: #66FF00;
+color: rgb(0,250,0);
 }
-}
-    font-size: 40px;
+ font-size: 40px;
   margin-top: 0;
   margin-bottom: 15px;
 }
