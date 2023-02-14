@@ -11,6 +11,8 @@ color: rgb(0,250,0);
   margin-top: 0;
   margin-bottom: 15px;
 }
+p { color: rgb(0,250,0);
+}
 
 h2 {
   font-size: 30px;
