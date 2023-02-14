@@ -3,18 +3,18 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Cafe Menu</title>
+    <title>ALIEN AWAY TEAM</title>
     <link href="styles.css" rel="stylesheet"/>
   </head>
   <body>
     <div class="menu">
       <main>
-        <h1>CAMPER CAFE</h1>
-        <p class="established">Est. 2020</p>
+        <h1>ALIEN AWAY TEAM</h1>
+        <p class="established">Est. 2023</p>
         <hr>
         <section>
-          <h2>Coffee</h2>
-          <img src="https://cdn.freecodecamp.org/curriculum/css-cafe/coffee.jpg" alt="coffee icon"/>
+          <h2>ALIENS</h2>
+          <img src="https://gifyu.com/image/Sq8fv alt"="coffee icon"/>
           <article class="item">
             <p class="flavor">French Vanilla</p><p class="price">3.00</p>
           </article>
