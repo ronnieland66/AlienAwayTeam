@@ -1,13 +1,12 @@
 body {
   background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
-  font-family: Luminari;
+  font-family: digital-clock-font;
   color: green; 
   padding: 20px;
 }
 
 h1 {
-  font-family: digital-clock-font;
-  font-size: 40px;
+    font-size: 40px;
   margin-top: 0;
   margin-bottom: 15px;
 }
