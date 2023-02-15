@@ -37,16 +37,16 @@
           <h2>Alien Away Team</h2>
           <img src="https://cdn.freecodecamp.org/curriculum/css-cafe/pie.jpg" alt="pie icon"/>
           <article class="item">
-            <p class="dessert">Donut</p><p class="price">1.50</p>
+            <p class="dessert">What about the future</p><p class="price">There is no past, present, or future. The time is now and the coming heat death of the universe will kill us all</p>
           </article>
           <article class="item">
-            <p class="dessert">Cherry Pie</p><p class="price">2.75</p>
+            <p class="dessert">Then whats the point?</p><p class="price">To be literal light and love. The create and live life</p>
           </article>
           <article class="item">
-            <p class="dessert">Cheesecake</p><p class="price">3.00</p>
+            <p class="dessert">Wen mint?</p><p class="price">SOON</p>
           </article>
           <article class="item">
-            <p class="dessert">Cinnamon Roll</p><p class="price">2.50</p>
+            <p class="dessert">How much Algorand will they be at mint?</p><p class="price">100 .algo</p>
           </article>
         </section>
       </main>
