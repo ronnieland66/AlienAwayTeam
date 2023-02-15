@@ -39,8 +39,7 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
-<img id="image_canv" src="/image.png" class="rotate90">
-rotate90 {
+img {rotate90 {
     -webkit-transform: rotate(90deg);
     -moz-transform: rotate(90deg);
     -o-transform: rotate(90deg);
